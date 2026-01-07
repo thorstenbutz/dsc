@@ -1,0 +1,34 @@
+# Created using winget configure export 1.12.350
+# yaml-language-server: $schema=https://aka.ms/configuration-dsc-schema/0.3
+$schema: https://raw.githubusercontent.com/PowerShell/DSC/main/schemas/2023/08/config/document.json
+metadata:
+  winget:
+    processor:
+      identifier: "dscv3"
+resources:
+
+# Winget settings
+- name: WingetSettings
+  type: Microsoft.WinGet/UserSettingsFile
+  properties:
+    settings:
+      experimentalFeatures:
+        experimentalCmd: true
+        experimentalArg: false
+      visual:
+        progressBar: "rainbow"
+        enableSixels: true
+      telemetry:
+        disable: true
+      $schema: "https://aka.ms/winget-settings.schema.json"     
+      
+# Brave installation
+- name: winget_Brave.Brave
+  type: Microsoft.WinGet/Package
+  metadata:
+    description: "Install Brave.Brave"
+  properties:
+    id: "Brave.Brave"
+    source: "winget"    
+    # Not implemented yet:
+    # scope: "machine"   

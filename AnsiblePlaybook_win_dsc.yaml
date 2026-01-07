@@ -1,0 +1,8 @@
+- name: Install Telnet Client using PSDSC
+  hosts: windows_workstations
+  tasks:
+    - name: Enable Telnet Client
+      ansible.windows.win_dsc:
+        resource_name: WindowsOptionalFeature
+        Ensure: Enable
+        Name: TelnetClient

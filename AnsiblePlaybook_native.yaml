@@ -1,0 +1,7 @@
+- name: Install Telnet Client using Native Module
+  hosts: windows_workstations
+  tasks:
+    - name: Enable Telnet Client
+      ansible.windows.win_optional_feature:
+        name: TelnetClient
+        state: present

@@ -1,0 +1,26 @@
+# yaml-language-server $schema=httpsaka.msconfiguration-dsc-schema0.3
+$schema httpsraw.githubusercontent.comPowerShellDSCmainschemas202404configdocument.json
+
+metadata
+  description 'Install DNS Server role and management tools on Windows Server'
+  created_by 'DSC v3 Configuration'
+  creation_date '2024'
+
+resources
+  - name Use Windows PowerShell resources
+    type Microsoft.WindowsWindowsPowerShell
+    properties
+      resources
+        - name DNS Server install
+          type PSDesiredStateConfigurationWindowsFeature
+          properties
+            Name DNS
+            Ensure Present
+            IncludeAllSubFeature false
+        
+        - name DNS Server management tools install
+          type PSDesiredStateConfigurationWindowsFeature
+          properties
+            Name RSAT-DNS-Server
+            Ensure Present
+            IncludeAllSubFeature false

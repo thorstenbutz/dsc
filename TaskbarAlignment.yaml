@@ -1,0 +1,10 @@
+$schema: https://aka.ms/dsc/schemas/v3/bundled/config/document.json
+resources:
+- name: Set taskbar alignment to left
+  type: Microsoft.Windows/Registry ## Die DSC-Resource 
+  properties:
+    keyPath: HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+    valueName: TaskbarAL
+    valueData: 
+      DWord: 0
+    _exist: true
