@@ -8,7 +8,7 @@ The March 2026 issue of [IT-Administrator](https://www.it-administrator.de/) fea
 
 You can find the corresponding code examples in this archive. For the article, I interviewed [Gael Colas](https://www.linkedin.com/in/gaelcolas/), one of the most active voices in the DSC community. 
 
-- [Interview with Gael Colas (English)](Interview Gael Colas about DSC v3/DSCv3InterviewGaelColasEN.md).
+- [Interview with Gael Colas (English)](Interview%20Gael%20Colas%20about%20DSC%20v3/DSCv3InterviewGaelColasEN.md).
 
 
 
@@ -20,25 +20,25 @@ In der März-Ausgabe 2026 des  [IT-Administrator](https://www.it-administrator.d
 
 In diesem Archiv finden Sie die zugehörigen Codebeispiele. Für den Artikel habe ich [Gael Colas](https://www.linkedin.com/in/gaelcolas/) interviewt, eine der aktivsten Stimmen der DSC-Community.
 
-- [Interview mit Gael Colas (Deutsch)](Interview Gael Colas about DSC v3/DSCv3InterviewGaelColasDE.md)
+- [Interview mit Gael Colas (Deutsch)](Interview%20Gael%20Colas%20about%20DSC%20v3/DSCv3InterviewGaelColasDE.md)
 
-Sie finden in diesem Repository einen kurzen [Bonusartikel](Aller guten Dinge/ItAdministrator03-2026bonus.md), der einige weitere Beispiele zeigt, die es aus Platzgründen nicht in die Druckausgabe geschafft hat. Vorrangig  vergleiche ich dort den Platzhirsch Ansible mit der DSC 3.
+Sie finden in diesem Repository einen kurzen [Bonusartikel](Aller%20guten%20Dinge/ItAdministrator03-2026bonus.md), der einige weitere Beispiele zeigt, die es aus Platzgründen nicht in die Druckausgabe geschafft hat. Vorrangig  vergleiche ich dort den Platzhirsch Ansible mit der DSC 3.
 
-- [Bonusartikel](Aller guten Dinge/ItAdministrator03-2026bonus.md) zu "Aller guten Dinge"
+- [Bonusartikel](Aller%20guten%20Dinge/ItAdministrator03-2026bonus.md) zu "Aller guten Dinge"
 
 
 
 ## Listings
 
-1. Telnet-Client installieren:  [Listing1_TelnetClientFeature.yaml](Aller guten Dinge/Listing1_TelnetClientFeature.yaml)
-2. Taskleiste ausrichten: [Listing2_TaskbarAlignment.ps1](Aller guten Dinge/Listing2_TaskbarAlignment.ps1)
-3. SetTaskbarAlignment im Local Configuration Manager:  [Listing3_SetTaskbarAlignment.ps1](Aller guten Dinge/Listing3_SetTaskbarAlignment.ps1)
-4. Ausschnitt aus einer MOF-Datei:  [Listing4_sea-cl1.mof](Aller guten Dinge/Listing4_sea-cl1.mof)
-5. TaskbarAlignment.yaml [Listing5_TaskbarAlignment.yaml](Aller guten Dinge/Listing5_TaskbarAlignment.yaml)
-6. myconfig.winget: [Listing6_myconfig.winget](Aller guten Dinge/Listing6_myconfig.winget)
-7. BONUS:  DNS-Server-Installation.yaml [Listing7_DNS-Server-Installation.yaml](Aller guten Dinge/Listing7_DNS-Server-Installation.yaml)
-8. BONUS: Ansible playbooks (win_dsc)  [Listing8_AnsiblePlaybook_win_dsc.yaml](Aller guten Dinge/Listing8_AnsiblePlaybook_win_dsc.yaml)
-9. BONUS: Ansible playbooks (native)  [Listing9_AnsiblePlaybook_native.yaml](Aller guten Dinge/Listing9_AnsiblePlaybook_native.yaml) 
+1. Telnet-Client installieren:  [Listing1_TelnetClientFeature.yaml](Aller%20guten%20Dinge/Listing1_TelnetClientFeature.yaml)
+2. Taskleiste ausrichten: [Listing2_TaskbarAlignment.ps1](Aller%20guten%20Dinge/Listing2_TaskbarAlignment.ps1)
+3. SetTaskbarAlignment im Local Configuration Manager:  [Listing3_SetTaskbarAlignment.ps1](Aller%20guten%20Dinge/Listing3_SetTaskbarAlignment.ps1)
+4. Ausschnitt aus einer MOF-Datei:  [Listing4_sea-cl1.mof](Aller%20guten%20Dinge/Listing4_sea-cl1.mof)
+5. TaskbarAlignment.yaml [Listing5_TaskbarAlignment.yaml](Aller%20guten%20Dinge/Listing5_TaskbarAlignment.yaml)
+6. myconfig.winget: [Listing6_myconfig.winget](Aller%20guten%20Dinge/Listing6_myconfig.winget)
+7. BONUS:  DNS-Server-Installation.yaml [Listing7_DNS-Server-Installation.yaml](Aller%20guten%20Dinge/Listing7_DNS-Server-Installation.yaml)
+8. BONUS: Ansible playbooks (win_dsc)  [Listing8_AnsiblePlaybook_win_dsc.yaml](Aller%20guten%20Dinge/Listing8_AnsiblePlaybook_win_dsc.yaml)
+9. BONUS: Ansible playbooks (native)  [Listing9_AnsiblePlaybook_native.yaml](Aller%20guten%20Dinge/Listing9_AnsiblePlaybook_native.yaml) 
 
 
 
