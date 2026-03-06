@@ -4,7 +4,7 @@
 
 ## English
 
-The March 2026 issue of [IT-Administrator](https://www.it-administrator.de/) features an article I wrote about Desired State Configuration (DSC) in version 3: [All good things come in threes](https://www.it-administrator.de/heftarchiv-article?xv_article=ADMIN_2026_03_064&issue=032026&toc=2026-03)
+The March 2026 issue of [IT-Administrator](https://www.it-administrator.de/) features a German article I wrote about Desired State Configuration (DSC) in version 3: [Aller guten Dinge](https://www.it-administrator.de/heftarchiv-article?xv_article=ADMIN_2026_03_064&issue=032026&toc=2026-03)
 
 You can find the corresponding code examples in this archive. For the article, I interviewed [Gael Colas](https://www.linkedin.com/in/gaelcolas/), one of the most active voices in the DSC community. 
 
