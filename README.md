@@ -34,16 +34,17 @@ Sie finden in diesem Repository einen kurzen [Bonusartikel](Aller%20guten%20Ding
 2. Taskleiste ausrichten: [Listing2_TaskbarAlignment.ps1](Aller%20guten%20Dinge/Listing2_TaskbarAlignment.ps1)
 3. SetTaskbarAlignment im Local Configuration Manager:  [Listing3_SetTaskbarAlignment.ps1](Aller%20guten%20Dinge/Listing3_SetTaskbarAlignment.ps1)
 4. Ausschnitt aus einer MOF-Datei:  [Listing4_sea-cl1.mof](Aller%20guten%20Dinge/Listing4_sea-cl1.mof)
-5. TaskbarAlignment.yaml [Listing5_TaskbarAlignment.yaml](Aller%20guten%20Dinge/Listing5_TaskbarAlignment.yaml)
+5. TaskbarAlignment.yaml: [Listing5_TaskbarAlignment.yaml](Aller%20guten%20Dinge/Listing5_TaskbarAlignment.yaml)
 6. myconfig.winget: [Listing6_myconfig.winget](Aller%20guten%20Dinge/Listing6_myconfig.winget)
-7. BONUS:  DNS-Server-Installation.yaml [Listing7_DNS-Server-Installation.yaml](Aller%20guten%20Dinge/Listing7_DNS-Server-Installation.yaml)
-8. BONUS: Ansible playbooks (win_dsc)  [Listing8_AnsiblePlaybook_win_dsc.yaml](Aller%20guten%20Dinge/Listing8_AnsiblePlaybook_win_dsc.yaml)
-9. BONUS: Ansible playbooks (native)  [Listing9_AnsiblePlaybook_native.yaml](Aller%20guten%20Dinge/Listing9_AnsiblePlaybook_native.yaml) 
+7. BONUS:  DNS-Server-Installation.yaml: [Listing7_DNS-Server-Installation.yaml](Aller%20guten%20Dinge/Listing7_DNS-Server-Installation.yaml)
+8. BONUS: Ansible playbooks (win_dsc):  [Listing8_AnsiblePlaybook_win_dsc.yaml](Aller%20guten%20Dinge/Listing8_AnsiblePlaybook_win_dsc.yaml)
+9. BONUS: Ansible playbooks (native):  [Listing9_AnsiblePlaybook_native.yaml](Aller%20guten%20Dinge/Listing9_AnsiblePlaybook_native.yaml) 
 
 
 
 ## Shortlinks im Heft
 
-- PowerShell DSC releases: [it-a.eu/q3z51](https://www.it-administrator.de/heftarchiv-article?xv_article=ADMIN_2026_03_064&issue=032026&toc=2026-03) 
-- WinGet Package respository: [it-a.eu/os11l](https://www.it-administrator.de/heftarchiv-article?xv_article=ADMIN_2026_03_064&issue=032026&toc=2026-03) 
-- Dieses Repository: [it-a.eu/q3z53](https://www.it-administrator.de/heftarchiv-article?xv_article=ADMIN_2026_03_064&issue=032026&toc=2026-03) 
+- PowerShell DSC releases: [it-a.eu/q3z51](http://it-a.eu/q3z51) 
+- WinGet Package respository: [it-a.eu/os11l](http://it-a.eu/os11l) 
+- Dieses Repository: [it-a.eu/q3z53](http://it-a.eu/q3z53)
+
